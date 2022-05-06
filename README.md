@@ -19,6 +19,8 @@ README Programming Assignment 5: Registrar
     Main.cpp
     Makefile
 
-3) Congratulations on pursuing your PH.D Joshua!
+3) My tutor helped us.
+ 
+ Congratulations on pursuing your PH.D Joshua!
 
 Note: Was in ICU for medical complications, have note from hospital and discussed with Professor German.
